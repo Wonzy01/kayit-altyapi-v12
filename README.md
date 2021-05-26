@@ -1,0 +1,1 @@
+# kayit-altyapi-v12
